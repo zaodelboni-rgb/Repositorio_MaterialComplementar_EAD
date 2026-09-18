@@ -1,0 +1,72 @@
+[
+  {
+    "Nome":"Ana Silva",
+    "Idade":25,
+    "Curso":"Python",
+    "Nota":8.5,
+    "Faltas":2
+  },
+  {
+    "Nome":"Jo\u00e3o Santos",
+    "Idade":30,
+    "Curso":"Java",
+    "Nota":9.0,
+    "Faltas":0
+  },
+  {
+    "Nome":"Maria Oliveira",
+    "Idade":28,
+    "Curso":"Python",
+    "Nota":7.5,
+    "Faltas":3
+  },
+  {
+    "Nome":"Pedro Costa",
+    "Idade":35,
+    "Curso":"JavaScript",
+    "Nota":9.5,
+    "Faltas":1
+  },
+  {
+    "Nome":"Carla Lima",
+    "Idade":22,
+    "Curso":"Python",
+    "Nota":8.0,
+    "Faltas":2
+  },
+  {
+    "Nome":"Roberto Alves",
+    "Idade":29,
+    "Curso":"Java",
+    "Nota":8.5,
+    "Faltas":1
+  },
+  {
+    "Nome":"Juliana Ferreira",
+    "Idade":26,
+    "Curso":"JavaScript",
+    "Nota":9.0,
+    "Faltas":0
+  },
+  {
+    "Nome":"Carlos Souza",
+    "Idade":31,
+    "Curso":"Python",
+    "Nota":7.0,
+    "Faltas":4
+  },
+  {
+    "Nome":"Patr\u00edcia Rocha",
+    "Idade":27,
+    "Curso":"Java",
+    "Nota":9.5,
+    "Faltas":1
+  },
+  {
+    "Nome":"Andr\u00e9 Pereira",
+    "Idade":33,
+    "Curso":"JavaScript",
+    "Nota":8.0,
+    "Faltas":2
+  }
+]

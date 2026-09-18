@@ -1,0 +1,93 @@
+{
+  "columns":[
+    "Nome",
+    "Idade",
+    "Curso",
+    "Nota",
+    "Faltas"
+  ],
+  "index":[
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "data":[
+    [
+      "Ana Silva",
+      25,
+      "Python",
+      8.5,
+      2
+    ],
+    [
+      "Jo\u00e3o Santos",
+      30,
+      "Java",
+      9.0,
+      0
+    ],
+    [
+      "Maria Oliveira",
+      28,
+      "Python",
+      7.5,
+      3
+    ],
+    [
+      "Pedro Costa",
+      35,
+      "JavaScript",
+      9.5,
+      1
+    ],
+    [
+      "Carla Lima",
+      22,
+      "Python",
+      8.0,
+      2
+    ],
+    [
+      "Roberto Alves",
+      29,
+      "Java",
+      8.5,
+      1
+    ],
+    [
+      "Juliana Ferreira",
+      26,
+      "JavaScript",
+      9.0,
+      0
+    ],
+    [
+      "Carlos Souza",
+      31,
+      "Python",
+      7.0,
+      4
+    ],
+    [
+      "Patr\u00edcia Rocha",
+      27,
+      "Java",
+      9.5,
+      1
+    ],
+    [
+      "Andr\u00e9 Pereira",
+      33,
+      "JavaScript",
+      8.0,
+      2
+    ]
+  ]
+}
