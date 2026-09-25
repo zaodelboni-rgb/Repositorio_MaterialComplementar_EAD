@@ -1,0 +1,101 @@
+Ranking,Nome,Plataforma,Ano,Gênero,Editora,Vendas América do Norte,Vendas EUA,Vendas Japão,Outras Vendas,Vendas Globais
+1,Sonic the Hedgehog 2,Mega Drive,1992,Platform,Sega,16.65,10.82,2.73,9.84,29.22
+2,Final Fantasy II,SNES,1991,Role-Playing,Square,15.65,12.12,7.15,4.8,27.6
+3,Final Fantasy,NES,1987,Role-Playing,Square,12.45,7.68,8.53,5.99,26.97
+4,Sonic the Hedgehog,Master System,1991,Platform,Sega,11.86,9.49,0.43,14.2,26.49
+5,Donkey Kong Country,SNES,1994,Platform,Nintendo,14.44,9.57,8.02,2.44,24.9
+6,Zelda II: The Adventure of Link,NES,1987,Adventure,Nintendo,10.24,7.31,5.81,8.75,24.8
+7,Street Fighter II Turbo,SNES,1993,Fighting,Capcom,14.17,12.16,0.49,10.02,24.68
+8,Pac-Man,Arcade,1980,Misc,Namco,12.1,9.11,0.89,10.22,23.21
+9,Super Mario World,SNES,1990,Platform,Nintendo,12.08,8.21,4.38,6.48,22.94
+10,Super Mario Bros.,NES,1985,Platform,Nintendo,9.84,8.55,3.85,5.34,19.03
+11,The Legend of Zelda: A Link to the Past,SNES,1991,Adventure,Nintendo,9.79,6.15,5.7,1.72,17.21
+12,Sonic the Hedgehog 3,Mega Drive,1994,Platform,Sega,8.23,5.08,0.5,8.41,17.14
+13,Dr. Mario,NES,1990,Puzzle,Nintendo,7.64,6.59,4.39,4.85,16.88
+14,Final Fantasy III,SNES,1994,Role-Playing,Square,6.52,5.63,2.38,6.79,15.69
+15,Super Mario Bros. 3,NES,1988,Platform,Nintendo,8.98,6.77,2.91,3.1,14.99
+16,Sonic & Knuckles,Mega Drive,1994,Platform,Sega,6.55,5.48,1.43,6.49,14.47
+17,Donkey Kong Country 2,SNES,1995,Platform,Nintendo,6.25,5.41,1.92,3.07,11.24
+18,Street Fighter II,Mega Drive,1992,Fighting,Capcom,3.72,2.44,0.86,4.36,8.94
+19,Super Mario Kart,SNES,1992,Racing,Nintendo,4.01,3.49,1.53,3.16,8.7
+20,The Legend of Zelda,NES,1986,Adventure,Nintendo,3.07,2.42,1.16,3.04,7.27
+21,Pac-Man,2600,1982,Misc,Atari,2.93,2.01,0.22,3.84,6.99
+22,Tetris,NES,1989,Puzzle,Nintendo,3.73,2.38,2.03,0.97,6.73
+23,Donkey Kong,Arcade,1981,Platform,Nintendo,2.56,2.09,1.69,0.79,5.04
+24,Metroid,NES,1986,Action,Nintendo,2.96,2.54,1.27,0.75,4.98
+25,E.T. the Extra-Terrestrial,2600,1982,Adventure,Atari,2.54,2.04,0.33,2.08,4.95
+26,Mortal Kombat,Mega Drive,1992,Fighting,Acclaim,2.47,2.03,0.3,2.08,4.85
+27,Kirby Super Star,SNES,1996,Platform,Nintendo,2.03,1.48,0.98,1.81,4.82
+28,Ice Hockey,2600,1981,Sports,Activision,2.01,1.26,0.19,2.59,4.79
+29,Dig Dug,Arcade,1982,Action,Namco,2.74,2.15,0.33,1.64,4.71
+30,Yoshi's Island,SNES,1995,Platform,Nintendo,2.8,1.82,0.81,1.09,4.7
+31,Frostbite,2600,1983,Action,Activision,2.08,1.4,0.23,2.27,4.58
+32,The Lion King,Mega Drive,1994,Platform,Virgin,2.32,1.82,0.14,2.0,4.46
+33,ToeJam & Earl,Mega Drive,1991,Action,Sega,2.1,1.36,0.39,1.93,4.42
+34,Dragon Quest,NES,1986,Role-Playing,Enix,1.84,1.37,1.49,1.07,4.4
+35,Chopper Command,2600,1982,Shooter,Activision,2.33,1.68,0.17,1.89,4.39
+36,F-Zero,SNES,1990,Racing,Nintendo,2.44,2.11,1.5,0.4,4.34
+37,Freeway,2600,1981,Action,Activision,2.39,1.95,0.27,1.59,4.25
+38,River Raid,2600,1982,Shooter,Activision,1.88,1.15,0.34,2.01,4.23
+39,Vectorman,Mega Drive,1995,Platform,Sega,2.19,1.96,0.31,1.69,4.19
+40,Checkers,2600,1980,Misc,Activision,2.38,1.84,0.27,1.51,4.16
+41,Boxing,2600,1980,Fighting,Activision,1.9,1.23,0.29,1.86,4.05
+42,Mega Man X,SNES,1993,Action,Capcom,2.27,1.54,0.35,1.41,4.03
+43,Earthbound,SNES,1994,Role-Playing,Nintendo,1.62,1.07,0.78,1.6,4.0
+44,Punch-Out!!,NES,1987,Fighting,Nintendo,2.13,1.62,0.99,0.72,3.84
+45,Space Invaders,Arcade,1978,Shooter,Taito,1.77,1.1,0.26,1.71,3.74
+46,Asteroids,2600,1980,Shooter,Atari,2.15,1.34,0.26,1.3,3.71
+47,OutRun,Master System,1986,Racing,Sega,2.19,1.38,0.26,1.22,3.67
+48,Frogger,Arcade,1981,Action,Konami,1.68,1.21,0.13,1.82,3.63
+49,Space Invaders,2600,1980,Shooter,Atari,1.58,1.09,0.05,1.92,3.55
+50,Phantasy Star IV,Mega Drive,1993,Role-Playing,Sega,1.57,1.3,0.13,1.69,3.39
+51,Ristar,Mega Drive,1995,Platform,Sega,1.43,0.91,0.32,1.6,3.35
+52,Centipede,Arcade,1981,Shooter,Atari,1.55,1.32,0.13,1.67,3.35
+53,Comix Zone,Mega Drive,1995,Action,Sega,1.85,1.28,0.04,1.41,3.3
+54,Super Punch-Out!!,SNES,1994,Fighting,Nintendo,1.94,1.47,0.74,0.56,3.24
+55,Pitfall!,2600,1982,Platform,Activision,1.47,0.98,0.04,1.72,3.23
+56,Chrono Trigger,SNES,1995,Role-Playing,Square,1.77,1.35,0.65,0.8,3.22
+57,Adventure,2600,1980,Adventure,Atari,1.52,1.01,0.14,1.55,3.21
+58,Aladdin,Mega Drive,1993,Platform,Sega,1.35,0.86,0.21,1.46,3.02
+59,Golden Axe II,Mega Drive,1991,Action,Sega,1.22,0.84,0.21,1.39,2.82
+60,R-Type,Master System,1988,Shooter,Irem,1.68,1.43,0.04,1.08,2.8
+61,Bridge,2600,1980,Misc,Activision,1.3,0.99,0.27,1.16,2.73
+62,Duck Hunt,NES,1984,Shooter,Nintendo,1.49,1.28,0.47,0.59,2.55
+63,Phantasy Star,Master System,1987,Role-Playing,Sega,1.35,0.89,0.2,0.87,2.42
+64,Streets of Rage 2,Mega Drive,1992,Action,Sega,1.38,1.24,0.11,0.84,2.33
+65,Contra,NES,1987,Shooter,Konami,1.34,0.91,0.22,0.76,2.32
+66,Bubble Bobble,NES,1986,Puzzle,Taito,0.95,0.64,0.13,1.17,2.25
+67,Gauntlet,Arcade,1985,Action,Atari,1.17,0.87,0.14,0.9,2.21
+68,Super Metroid,SNES,1994,Action,Nintendo,0.87,0.73,0.45,0.86,2.18
+69,Ninja Gaiden,NES,1988,Action,Tecmo,1.11,0.9,0.06,1.0,2.17
+70,Missile Command,2600,1980,Shooter,Atari,0.96,0.72,0.03,1.18,2.17
+71,Earthworm Jim,Mega Drive,1994,Platform,Playmates,1.09,0.96,0.13,0.93,2.15
+72,Star Fox,SNES,1993,Shooter,Nintendo,0.9,0.79,0.57,0.62,2.09
+73,Space Harrier,Master System,1985,Shooter,Sega,1.19,0.8,0.08,0.8,2.07
+74,Q*bert,Arcade,1982,Puzzle,Gottlieb,0.88,0.64,0.08,1.11,2.07
+75,Galaga,Arcade,1981,Shooter,Namco,0.9,0.73,0.12,0.97,1.99
+76,Ghosts 'n Goblins,NES,1986,Platform,Capcom,0.79,0.52,0.11,0.86,1.76
+77,Secret of Mana,SNES,1993,Role-Playing,Square,1.02,0.69,0.55,0.14,1.71
+78,Barnstorming,2600,1982,Misc,Activision,0.73,0.64,0.06,0.86,1.65
+79,Joust,Arcade,1982,Action,Williams,0.63,0.43,0.09,0.85,1.57
+80,Excitebike,NES,1984,Racing,Nintendo,0.82,0.53,0.43,0.31,1.56
+81,Combat,2600,1977,Shooter,Atari,0.75,0.58,0.13,0.53,1.41
+82,Castlevania,NES,1986,Platform,Konami,0.59,0.43,0.1,0.72,1.41
+83,Shinobi,Master System,1988,Action,Sega,0.65,0.55,0.12,0.55,1.32
+84,Killer Instinct,SNES,1995,Fighting,Nintendo,0.59,0.4,0.37,0.23,1.19
+85,Defender,2600,1980,Misc,Atari,0.67,0.4,0.07,0.44,1.18
+86,Wonder Boy III,Master System,1989,Adventure,Sega,0.67,0.52,0.03,0.45,1.15
+87,Gunstar Heroes,Mega Drive,1993,Shooter,Sega,0.49,0.35,0.08,0.53,1.1
+88,Double Dragon,NES,1988,Action,Tradewest,0.65,0.52,0.04,0.4,1.09
+89,After Burner,Master System,1987,Shooter,Sega,0.5,0.34,0.05,0.48,1.03
+90,Yars' Revenge,2600,1982,Shooter,Atari,0.41,0.29,0.07,0.46,0.94
+91,Beyond Oasis,Mega Drive,1994,Role-Playing,Sega,0.28,0.22,0.04,0.3,0.62
+92,Golden Axe,Master System,1989,Action,Sega,0.27,0.2,0.03,0.27,0.57
+93,Shining Force,Mega Drive,1992,Role-Playing,Sega,0.28,0.25,0.02,0.16,0.46
+94,Ecco the Dolphin,Mega Drive,1992,Adventure,Sega,0.21,0.18,0.01,0.24,0.46
+95,Alex Kidd in Miracle World,Master System,1986,Platform,Sega,0.2,0.17,0.03,0.22,0.45
+96,Mortal Kombat II,Mega Drive,1993,Fighting,Acclaim,0.19,0.16,0.02,0.17,0.38
+97,Kaboom!,2600,1981,Misc,Activision,0.12,0.09,0.01,0.1,0.23
+98,Super Castlevania IV,SNES,1991,Platform,Konami,0.1,0.09,0.02,0.1,0.22
+99,Mega Man 2,NES,1988,Action,Capcom,0.09,0.07,0.01,0.06,0.16
+100,Kirby's Adventure,NES,1993,Platform,Nintendo,0.04,0.04,0.02,0.04,0.1
